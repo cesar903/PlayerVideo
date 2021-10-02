@@ -1,0 +1,16 @@
+body{
+    background-size: cover !important;
+    background-position: right !important;
+    background-attachment: fixed !important;
+    background-image: linear-gradient(white,rgb(219, 24, 245), rgb(0, 0, 0));
+}
+
+video{
+    width: 500px;
+    height: 281px ;
+    border-radius: 20px ;
+}
+.diferente{
+    background-color: white;
+    color: rgb(219, 24, 245);
+}
